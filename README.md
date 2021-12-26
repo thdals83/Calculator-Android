@@ -27,5 +27,6 @@
 ## 주요사진
 ### 계산기 사진
 <img src="https://user-images.githubusercontent.com/59475849/147402852-e736fbbc-e499-4b20-ba62-e538c3e59b19.png">
+
 ### HISTORY 사진
 <img src="https://user-images.githubusercontent.com/59475849/147402873-8b9037f8-e5fe-4456-b3c4-dc653443eb8c.png">
